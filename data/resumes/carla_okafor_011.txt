@@ -1,0 +1,25 @@
+Carla Okafor
+DevOps Engineer | 8 years of experience
+
+SUMMARY
+DevOps Engineer with 8 years building cloud infrastructure. Proven track record delivering
+production systems and mentoring engineers.
+
+TECHNICAL SKILLS
+  - AWS
+  - Prometheus
+  - Terraform
+  - Go
+
+EXPERIENCE
+Hooli — DevOps Engineer (4 years)
+  - Led development of cloud infrastructure using AWS and Prometheus.
+  - Improved system reliability and reduced latency through profiling and refactoring.
+  - Collaborated cross-functionally with product and design.
+
+Umbrella — Software Engineer (4 years)
+  - Built and maintained features across the stack using Terraform.
+  - Wrote automated tests and participated in code review.
+
+EDUCATION
+B.S. in Computer Science

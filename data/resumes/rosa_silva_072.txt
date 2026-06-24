@@ -1,0 +1,25 @@
+Rosa Silva
+Senior Frontend Engineer | 4 years of experience
+
+SUMMARY
+Senior Frontend Engineer with 4 years building consumer web applications. Proven track record delivering
+production systems and mentoring engineers.
+
+TECHNICAL SKILLS
+  - Redux
+  - React
+  - TypeScript
+  - Webpack
+
+EXPERIENCE
+Pied Piper — Senior Frontend Engineer (2 years)
+  - Led development of consumer web applications using Redux and React.
+  - Improved system reliability and reduced latency through profiling and refactoring.
+  - Collaborated cross-functionally with product and design.
+
+Acme Corp — Software Engineer (2 years)
+  - Built and maintained features across the stack using TypeScript.
+  - Wrote automated tests and participated in code review.
+
+EDUCATION
+B.S. in Computer Science

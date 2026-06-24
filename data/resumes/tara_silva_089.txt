@@ -1,0 +1,27 @@
+Tara Silva
+DevOps Engineer | 9 years of experience
+
+SUMMARY
+DevOps Engineer with 9 years building cloud infrastructure. Proven track record delivering
+production systems and mentoring engineers.
+
+TECHNICAL SKILLS
+  - Go
+  - Prometheus
+  - AWS
+  - Docker
+  - Terraform
+  - CI/CD
+
+EXPERIENCE
+Initech — DevOps Engineer (4 years)
+  - Led development of cloud infrastructure using Go and Prometheus.
+  - Improved system reliability and reduced latency through profiling and refactoring.
+  - Collaborated cross-functionally with product and design.
+
+Hooli — Software Engineer (5 years)
+  - Built and maintained features across the stack using AWS.
+  - Wrote automated tests and participated in code review.
+
+EDUCATION
+B.S. in Computer Science

@@ -1,0 +1,27 @@
+Xin Rossi
+Full-Stack Engineer | 2 years of experience
+
+SUMMARY
+Full-Stack Engineer with 2 years building SaaS platforms. Proven track record delivering
+production systems and mentoring engineers.
+
+TECHNICAL SKILLS
+  - Node.js
+  - MongoDB
+  - React
+  - AWS
+  - GraphQL
+  - TypeScript
+
+EXPERIENCE
+Pied Piper — Full-Stack Engineer (1 years)
+  - Led development of SaaS platforms using Node.js and MongoDB.
+  - Improved system reliability and reduced latency through profiling and refactoring.
+  - Collaborated cross-functionally with product and design.
+
+Umbrella — Software Engineer (1 years)
+  - Built and maintained features across the stack using React.
+  - Wrote automated tests and participated in code review.
+
+EDUCATION
+B.S. in Computer Science

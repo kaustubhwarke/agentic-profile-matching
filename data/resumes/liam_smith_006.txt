@@ -1,0 +1,26 @@
+Liam Smith
+Senior Frontend Engineer | 12 years of experience
+
+SUMMARY
+Senior Frontend Engineer with 12 years building consumer web applications. Proven track record delivering
+production systems and mentoring engineers.
+
+TECHNICAL SKILLS
+  - Jest
+  - TypeScript
+  - Webpack
+  - CSS
+  - GraphQL
+
+EXPERIENCE
+Initech — Senior Frontend Engineer (6 years)
+  - Led development of consumer web applications using Jest and TypeScript.
+  - Improved system reliability and reduced latency through profiling and refactoring.
+  - Collaborated cross-functionally with product and design.
+
+Initech — Software Engineer (6 years)
+  - Built and maintained features across the stack using Webpack.
+  - Wrote automated tests and participated in code review.
+
+EDUCATION
+B.S. in Computer Science

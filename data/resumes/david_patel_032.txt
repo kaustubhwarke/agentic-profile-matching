@@ -1,0 +1,27 @@
+David Patel
+Full-Stack Engineer | 10 years of experience
+
+SUMMARY
+Full-Stack Engineer with 10 years building SaaS platforms. Proven track record delivering
+production systems and mentoring engineers.
+
+TECHNICAL SKILLS
+  - TypeScript
+  - Node.js
+  - AWS
+  - GraphQL
+  - React
+  - MongoDB
+
+EXPERIENCE
+Globex — Full-Stack Engineer (5 years)
+  - Led development of SaaS platforms using TypeScript and Node.js.
+  - Improved system reliability and reduced latency through profiling and refactoring.
+  - Collaborated cross-functionally with product and design.
+
+Acme Corp — Software Engineer (5 years)
+  - Built and maintained features across the stack using AWS.
+  - Wrote automated tests and participated in code review.
+
+EDUCATION
+B.S. in Computer Science

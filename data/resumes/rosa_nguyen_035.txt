@@ -1,0 +1,28 @@
+Rosa Nguyen
+DevOps Engineer | 3 years of experience
+
+SUMMARY
+DevOps Engineer with 3 years building cloud infrastructure. Proven track record delivering
+production systems and mentoring engineers.
+
+TECHNICAL SKILLS
+  - Kubernetes
+  - Prometheus
+  - CI/CD
+  - AWS
+  - Go
+  - Docker
+  - Terraform
+
+EXPERIENCE
+Acme Corp — DevOps Engineer (1 years)
+  - Led development of cloud infrastructure using Kubernetes and Prometheus.
+  - Improved system reliability and reduced latency through profiling and refactoring.
+  - Collaborated cross-functionally with product and design.
+
+Northwind — Software Engineer (2 years)
+  - Built and maintained features across the stack using CI/CD.
+  - Wrote automated tests and participated in code review.
+
+EDUCATION
+B.S. in Computer Science

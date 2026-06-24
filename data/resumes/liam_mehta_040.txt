@@ -1,0 +1,26 @@
+Liam Mehta
+Machine Learning Engineer | 10 years of experience
+
+SUMMARY
+Machine Learning Engineer with 10 years building recommendation systems. Proven track record delivering
+production systems and mentoring engineers.
+
+TECHNICAL SKILLS
+  - PyTorch
+  - NLP
+  - Kubernetes
+  - TensorFlow
+  - Python
+
+EXPERIENCE
+Acme Corp — Machine Learning Engineer (5 years)
+  - Led development of recommendation systems using PyTorch and NLP.
+  - Improved system reliability and reduced latency through profiling and refactoring.
+  - Collaborated cross-functionally with product and design.
+
+Umbrella — Software Engineer (5 years)
+  - Built and maintained features across the stack using Kubernetes.
+  - Wrote automated tests and participated in code review.
+
+EDUCATION
+B.S. in Computer Science

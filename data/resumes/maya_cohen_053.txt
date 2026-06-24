@@ -1,0 +1,28 @@
+Maya Cohen
+DevOps Engineer | 4 years of experience
+
+SUMMARY
+DevOps Engineer with 4 years building cloud infrastructure. Proven track record delivering
+production systems and mentoring engineers.
+
+TECHNICAL SKILLS
+  - AWS
+  - Terraform
+  - Kubernetes
+  - Docker
+  - CI/CD
+  - Prometheus
+  - Go
+
+EXPERIENCE
+Initech — DevOps Engineer (2 years)
+  - Led development of cloud infrastructure using AWS and Terraform.
+  - Improved system reliability and reduced latency through profiling and refactoring.
+  - Collaborated cross-functionally with product and design.
+
+Northwind — Software Engineer (2 years)
+  - Built and maintained features across the stack using Kubernetes.
+  - Wrote automated tests and participated in code review.
+
+EDUCATION
+B.S. in Computer Science

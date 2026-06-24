@@ -1,0 +1,28 @@
+Wendy Garcia
+DevOps Engineer | 8 years of experience
+
+SUMMARY
+DevOps Engineer with 8 years building cloud infrastructure. Proven track record delivering
+production systems and mentoring engineers.
+
+TECHNICAL SKILLS
+  - Terraform
+  - Prometheus
+  - Kubernetes
+  - Go
+  - AWS
+  - CI/CD
+  - Docker
+
+EXPERIENCE
+Initech — DevOps Engineer (4 years)
+  - Led development of cloud infrastructure using Terraform and Prometheus.
+  - Improved system reliability and reduced latency through profiling and refactoring.
+  - Collaborated cross-functionally with product and design.
+
+Pied Piper — Software Engineer (4 years)
+  - Built and maintained features across the stack using Kubernetes.
+  - Wrote automated tests and participated in code review.
+
+EDUCATION
+B.S. in Computer Science

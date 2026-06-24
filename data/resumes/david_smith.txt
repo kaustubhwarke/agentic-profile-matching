@@ -1,0 +1,26 @@
+David Smith
+Backend Engineer | 8 years of experience
+
+SUMMARY
+Backend Engineer with 8 years building high-throughput payment systems in Python.
+
+TECHNICAL SKILLS
+  - Python
+  - Django
+  - PostgreSQL
+  - Redis
+  - Celery
+  - Docker
+  - REST APIs
+
+EXPERIENCE
+Umbrella — Senior Backend Engineer (5 years)
+  - Designed and scaled payment processing services in Python/Django.
+  - Optimized PostgreSQL queries and introduced Redis caching for hot paths.
+  - Built asynchronous workflows with Celery.
+
+Globex — Backend Engineer (3 years)
+  - Built REST APIs and background jobs; containerized services with Docker.
+
+EDUCATION
+B.S. in Software Engineering

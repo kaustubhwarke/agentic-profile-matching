@@ -1,0 +1,12 @@
+# Streamlit configuration for the Agentic Profile Matching UI.
+#
+# fileWatcherType = "none": disables Streamlit's source-file watcher. The watcher
+# eagerly imports modules under site-packages to support hot-reload, which trips
+# over transformers' lazy/optional submodules (e.g. zoedepth → torchvision) and
+# prints spurious ModuleNotFoundError tracebacks. We don't need hot-reload to run
+# the app, and the heavy ML deps make crawling them undesirable anyway.
+[server]
+fileWatcherType = "none"
+
+[browser]
+gatherUsageStats = false

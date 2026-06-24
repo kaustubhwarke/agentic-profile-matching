@@ -1,0 +1,26 @@
+Elena Patel
+Machine Learning Engineer | 2 years of experience
+
+SUMMARY
+Machine Learning Engineer with 2 years building recommendation systems. Proven track record delivering
+production systems and mentoring engineers.
+
+TECHNICAL SKILLS
+  - MLflow
+  - Kubernetes
+  - PyTorch
+  - NLP
+  - TensorFlow
+
+EXPERIENCE
+Hooli — Machine Learning Engineer (1 years)
+  - Led development of recommendation systems using MLflow and Kubernetes.
+  - Improved system reliability and reduced latency through profiling and refactoring.
+  - Collaborated cross-functionally with product and design.
+
+Globex — Software Engineer (1 years)
+  - Built and maintained features across the stack using PyTorch.
+  - Wrote automated tests and participated in code review.
+
+EDUCATION
+B.S. in Computer Science

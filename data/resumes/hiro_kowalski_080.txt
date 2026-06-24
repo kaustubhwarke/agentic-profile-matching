@@ -1,0 +1,26 @@
+Hiro Kowalski
+Full-Stack Engineer | 6 years of experience
+
+SUMMARY
+Full-Stack Engineer with 6 years building SaaS platforms. Proven track record delivering
+production systems and mentoring engineers.
+
+TECHNICAL SKILLS
+  - TypeScript
+  - Node.js
+  - GraphQL
+  - React
+  - AWS
+
+EXPERIENCE
+Pied Piper — Full-Stack Engineer (3 years)
+  - Led development of SaaS platforms using TypeScript and Node.js.
+  - Improved system reliability and reduced latency through profiling and refactoring.
+  - Collaborated cross-functionally with product and design.
+
+Pied Piper — Software Engineer (3 years)
+  - Built and maintained features across the stack using GraphQL.
+  - Wrote automated tests and participated in code review.
+
+EDUCATION
+B.S. in Computer Science

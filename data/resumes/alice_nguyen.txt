@@ -1,0 +1,30 @@
+Alice Nguyen
+Senior Frontend Engineer | 6 years of experience
+
+SUMMARY
+Senior Frontend Engineer with 6 years building consumer web applications.
+Deep expertise in React and TypeScript with a strong testing culture.
+
+TECHNICAL SKILLS
+  - React
+  - TypeScript
+  - Redux
+  - GraphQL
+  - Jest
+  - React Testing Library
+  - Webpack
+  - Accessibility (WCAG)
+
+EXPERIENCE
+Globex — Senior Frontend Engineer (3 years)
+  - Led the rebuild of the customer dashboard in React + TypeScript, cutting
+    page load time by 40% via code-splitting and Webpack tuning.
+  - Introduced a component design system and raised test coverage to 85% with Jest.
+  - Mentored three junior engineers and ran the frontend guild.
+
+Initech — Frontend Engineer (3 years)
+  - Built GraphQL-backed features and migrated legacy Redux stores.
+  - Owned accessibility remediation across the marketing site.
+
+EDUCATION
+B.S. in Computer Science

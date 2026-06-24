@@ -1,0 +1,25 @@
+Viktor Okafor
+Data Engineer | 10 years of experience
+
+SUMMARY
+Data Engineer with 10 years building analytics pipelines. Proven track record delivering
+production systems and mentoring engineers.
+
+TECHNICAL SKILLS
+  - Python
+  - SQL
+  - Kafka
+  - dbt
+
+EXPERIENCE
+Pied Piper — Data Engineer (5 years)
+  - Led development of analytics pipelines using Python and SQL.
+  - Improved system reliability and reduced latency through profiling and refactoring.
+  - Collaborated cross-functionally with product and design.
+
+Initech — Software Engineer (5 years)
+  - Built and maintained features across the stack using Kafka.
+  - Wrote automated tests and participated in code review.
+
+EDUCATION
+B.S. in Computer Science

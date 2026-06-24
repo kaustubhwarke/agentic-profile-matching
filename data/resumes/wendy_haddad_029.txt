@@ -1,0 +1,25 @@
+Wendy Haddad
+DevOps Engineer | 5 years of experience
+
+SUMMARY
+DevOps Engineer with 5 years building cloud infrastructure. Proven track record delivering
+production systems and mentoring engineers.
+
+TECHNICAL SKILLS
+  - Terraform
+  - Go
+  - Kubernetes
+  - Prometheus
+
+EXPERIENCE
+Northwind — DevOps Engineer (2 years)
+  - Led development of cloud infrastructure using Terraform and Go.
+  - Improved system reliability and reduced latency through profiling and refactoring.
+  - Collaborated cross-functionally with product and design.
+
+Initech — Software Engineer (3 years)
+  - Built and maintained features across the stack using Kubernetes.
+  - Wrote automated tests and participated in code review.
+
+EDUCATION
+B.S. in Computer Science

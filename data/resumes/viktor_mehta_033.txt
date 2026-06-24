@@ -1,0 +1,27 @@
+Viktor Mehta
+Data Engineer | 6 years of experience
+
+SUMMARY
+Data Engineer with 6 years building analytics pipelines. Proven track record delivering
+production systems and mentoring engineers.
+
+TECHNICAL SKILLS
+  - Spark
+  - dbt
+  - Kafka
+  - SQL
+  - Snowflake
+  - Python
+
+EXPERIENCE
+Northwind — Data Engineer (3 years)
+  - Led development of analytics pipelines using Spark and dbt.
+  - Improved system reliability and reduced latency through profiling and refactoring.
+  - Collaborated cross-functionally with product and design.
+
+Northwind — Software Engineer (3 years)
+  - Built and maintained features across the stack using Kafka.
+  - Wrote automated tests and participated in code review.
+
+EDUCATION
+B.S. in Computer Science

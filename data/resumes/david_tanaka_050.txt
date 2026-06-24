@@ -1,0 +1,27 @@
+David Tanaka
+Full-Stack Engineer | 4 years of experience
+
+SUMMARY
+Full-Stack Engineer with 4 years building SaaS platforms. Proven track record delivering
+production systems and mentoring engineers.
+
+TECHNICAL SKILLS
+  - TypeScript
+  - React
+  - AWS
+  - MongoDB
+  - Node.js
+  - GraphQL
+
+EXPERIENCE
+Initech — Full-Stack Engineer (2 years)
+  - Led development of SaaS platforms using TypeScript and React.
+  - Improved system reliability and reduced latency through profiling and refactoring.
+  - Collaborated cross-functionally with product and design.
+
+Acme Corp — Software Engineer (2 years)
+  - Built and maintained features across the stack using AWS.
+  - Wrote automated tests and participated in code review.
+
+EDUCATION
+B.S. in Computer Science

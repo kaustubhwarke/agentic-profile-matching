@@ -1,0 +1,28 @@
+Wendy Okafor
+DevOps Engineer | 6 years of experience
+
+SUMMARY
+DevOps Engineer with 6 years building cloud infrastructure. Proven track record delivering
+production systems and mentoring engineers.
+
+TECHNICAL SKILLS
+  - Terraform
+  - Docker
+  - Go
+  - CI/CD
+  - Prometheus
+  - Kubernetes
+  - AWS
+
+EXPERIENCE
+Hooli — DevOps Engineer (3 years)
+  - Led development of cloud infrastructure using Terraform and Docker.
+  - Improved system reliability and reduced latency through profiling and refactoring.
+  - Collaborated cross-functionally with product and design.
+
+Globex — Software Engineer (3 years)
+  - Built and maintained features across the stack using Go.
+  - Wrote automated tests and participated in code review.
+
+EDUCATION
+B.S. in Computer Science

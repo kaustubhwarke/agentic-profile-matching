@@ -1,0 +1,26 @@
+Maya Haddad
+Machine Learning Engineer | 5 years of experience
+
+SUMMARY
+Machine Learning Engineer with 5 years building recommendation systems. Proven track record delivering
+production systems and mentoring engineers.
+
+TECHNICAL SKILLS
+  - PyTorch
+  - Kubernetes
+  - MLflow
+  - Python
+  - TensorFlow
+
+EXPERIENCE
+Globex — Machine Learning Engineer (2 years)
+  - Led development of recommendation systems using PyTorch and Kubernetes.
+  - Improved system reliability and reduced latency through profiling and refactoring.
+  - Collaborated cross-functionally with product and design.
+
+Pied Piper — Software Engineer (3 years)
+  - Built and maintained features across the stack using MLflow.
+  - Wrote automated tests and participated in code review.
+
+EDUCATION
+B.S. in Computer Science

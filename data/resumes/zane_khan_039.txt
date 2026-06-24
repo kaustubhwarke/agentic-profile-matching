@@ -1,0 +1,25 @@
+Zane Khan
+Data Engineer | 5 years of experience
+
+SUMMARY
+Data Engineer with 5 years building analytics pipelines. Proven track record delivering
+production systems and mentoring engineers.
+
+TECHNICAL SKILLS
+  - Python
+  - Kafka
+  - Snowflake
+  - SQL
+
+EXPERIENCE
+Pied Piper — Data Engineer (2 years)
+  - Led development of analytics pipelines using Python and Kafka.
+  - Improved system reliability and reduced latency through profiling and refactoring.
+  - Collaborated cross-functionally with product and design.
+
+Globex — Software Engineer (3 years)
+  - Built and maintained features across the stack using Snowflake.
+  - Wrote automated tests and participated in code review.
+
+EDUCATION
+B.S. in Computer Science

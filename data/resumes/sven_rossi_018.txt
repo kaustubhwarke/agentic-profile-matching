@@ -1,0 +1,26 @@
+Sven Rossi
+Senior Frontend Engineer | 5 years of experience
+
+SUMMARY
+Senior Frontend Engineer with 5 years building consumer web applications. Proven track record delivering
+production systems and mentoring engineers.
+
+TECHNICAL SKILLS
+  - Jest
+  - CSS
+  - Redux
+  - Webpack
+  - GraphQL
+
+EXPERIENCE
+Northwind — Senior Frontend Engineer (2 years)
+  - Led development of consumer web applications using Jest and CSS.
+  - Improved system reliability and reduced latency through profiling and refactoring.
+  - Collaborated cross-functionally with product and design.
+
+Northwind — Software Engineer (3 years)
+  - Built and maintained features across the stack using Redux.
+  - Wrote automated tests and participated in code review.
+
+EDUCATION
+B.S. in Computer Science

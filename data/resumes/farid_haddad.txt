@@ -1,0 +1,26 @@
+Farid Haddad
+Machine Learning Engineer | 5 years of experience
+
+SUMMARY
+Machine Learning Engineer with 5 years building recommendation systems and
+NLP services in production.
+
+TECHNICAL SKILLS
+  - Python
+  - PyTorch
+  - TensorFlow
+  - MLflow
+  - Kubernetes
+  - NLP
+  - SQL
+
+EXPERIENCE
+Hooli — ML Engineer (3 years)
+  - Built and deployed recommendation models with PyTorch, served on Kubernetes.
+  - Tracked experiments with MLflow and ran A/B tests.
+
+Pied Piper — Data Scientist (2 years)
+  - Developed NLP classifiers and feature pipelines.
+
+EDUCATION
+M.S. in Machine Learning

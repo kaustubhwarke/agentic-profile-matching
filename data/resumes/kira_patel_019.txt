@@ -1,0 +1,28 @@
+Kira Patel
+Backend Engineer | 10 years of experience
+
+SUMMARY
+Backend Engineer with 10 years building high-throughput payment systems. Proven track record delivering
+production systems and mentoring engineers.
+
+TECHNICAL SKILLS
+  - Python
+  - Redis
+  - Django
+  - PostgreSQL
+  - Docker
+  - Celery
+  - REST APIs
+
+EXPERIENCE
+Acme Corp — Backend Engineer (5 years)
+  - Led development of high-throughput payment systems using Python and Redis.
+  - Improved system reliability and reduced latency through profiling and refactoring.
+  - Collaborated cross-functionally with product and design.
+
+Pied Piper — Software Engineer (5 years)
+  - Built and maintained features across the stack using Django.
+  - Wrote automated tests and participated in code review.
+
+EDUCATION
+B.S. in Computer Science

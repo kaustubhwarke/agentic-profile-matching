@@ -1,0 +1,28 @@
+Yara Patel
+Senior Frontend Engineer | 9 years of experience
+
+SUMMARY
+Senior Frontend Engineer with 9 years building consumer web applications. Proven track record delivering
+production systems and mentoring engineers.
+
+TECHNICAL SKILLS
+  - Jest
+  - TypeScript
+  - React
+  - Redux
+  - CSS
+  - Webpack
+  - GraphQL
+
+EXPERIENCE
+Initech — Senior Frontend Engineer (4 years)
+  - Led development of consumer web applications using Jest and TypeScript.
+  - Improved system reliability and reduced latency through profiling and refactoring.
+  - Collaborated cross-functionally with product and design.
+
+Acme Corp — Software Engineer (5 years)
+  - Built and maintained features across the stack using React.
+  - Wrote automated tests and participated in code review.
+
+EDUCATION
+B.S. in Computer Science

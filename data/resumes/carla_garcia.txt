@@ -1,0 +1,27 @@
+Carla Garcia
+Full-Stack Engineer | 5 years of experience
+
+SUMMARY
+Full-Stack Engineer with 5 years building SaaS platforms end to end.
+Strong on the React/TypeScript frontend and Node.js services.
+
+TECHNICAL SKILLS
+  - React
+  - TypeScript
+  - Node.js
+  - GraphQL
+  - MongoDB
+  - AWS
+  - Jest
+
+EXPERIENCE
+Acme Corp — Full-Stack Engineer (3 years)
+  - Delivered customer-facing features in React + TypeScript and GraphQL APIs in Node.js.
+  - Owned CI/CD on AWS and improved deploy frequency.
+  - Drove test automation across the stack.
+
+Northwind — Software Engineer (2 years)
+  - Built REST and GraphQL services and React UIs.
+
+EDUCATION
+B.S. in Computer Science

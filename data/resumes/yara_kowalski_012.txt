@@ -1,0 +1,25 @@
+Yara Kowalski
+Senior Frontend Engineer | 12 years of experience
+
+SUMMARY
+Senior Frontend Engineer with 12 years building consumer web applications. Proven track record delivering
+production systems and mentoring engineers.
+
+TECHNICAL SKILLS
+  - GraphQL
+  - TypeScript
+  - Redux
+  - CSS
+
+EXPERIENCE
+Hooli — Senior Frontend Engineer (6 years)
+  - Led development of consumer web applications using GraphQL and TypeScript.
+  - Improved system reliability and reduced latency through profiling and refactoring.
+  - Collaborated cross-functionally with product and design.
+
+Hooli — Software Engineer (6 years)
+  - Built and maintained features across the stack using Redux.
+  - Wrote automated tests and participated in code review.
+
+EDUCATION
+B.S. in Computer Science

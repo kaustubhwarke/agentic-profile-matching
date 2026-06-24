@@ -1,0 +1,25 @@
+Noah Tanaka
+Data Engineer | 10 years of experience
+
+SUMMARY
+Data Engineer with 10 years building analytics pipelines. Proven track record delivering
+production systems and mentoring engineers.
+
+TECHNICAL SKILLS
+  - Kafka
+  - dbt
+  - Snowflake
+  - Spark
+
+EXPERIENCE
+Globex — Data Engineer (5 years)
+  - Led development of analytics pipelines using Kafka and dbt.
+  - Improved system reliability and reduced latency through profiling and refactoring.
+  - Collaborated cross-functionally with product and design.
+
+Acme Corp — Software Engineer (5 years)
+  - Built and maintained features across the stack using Snowflake.
+  - Wrote automated tests and participated in code review.
+
+EDUCATION
+B.S. in Computer Science
