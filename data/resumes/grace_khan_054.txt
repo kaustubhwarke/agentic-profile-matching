@@ -1,0 +1,27 @@
+Grace Khan
+Senior Frontend Engineer | 8 years of experience
+
+SUMMARY
+Senior Frontend Engineer with 8 years building consumer web applications. Proven track record delivering
+production systems and mentoring engineers.
+
+TECHNICAL SKILLS
+  - React
+  - Webpack
+  - TypeScript
+  - GraphQL
+  - Jest
+  - CSS
+
+EXPERIENCE
+Globex — Senior Frontend Engineer (4 years)
+  - Led development of consumer web applications using React and Webpack.
+  - Improved system reliability and reduced latency through profiling and refactoring.
+  - Collaborated cross-functionally with product and design.
+
+Pied Piper — Software Engineer (4 years)
+  - Built and maintained features across the stack using TypeScript.
+  - Wrote automated tests and participated in code review.
+
+EDUCATION
+B.S. in Computer Science

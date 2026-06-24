@@ -1,0 +1,27 @@
+Alice Okafor
+Full-Stack Engineer | 7 years of experience
+
+SUMMARY
+Full-Stack Engineer with 7 years building SaaS platforms. Proven track record delivering
+production systems and mentoring engineers.
+
+TECHNICAL SKILLS
+  - AWS
+  - TypeScript
+  - Node.js
+  - React
+  - MongoDB
+  - GraphQL
+
+EXPERIENCE
+Umbrella — Full-Stack Engineer (3 years)
+  - Led development of SaaS platforms using AWS and TypeScript.
+  - Improved system reliability and reduced latency through profiling and refactoring.
+  - Collaborated cross-functionally with product and design.
+
+Northwind — Software Engineer (4 years)
+  - Built and maintained features across the stack using Node.js.
+  - Wrote automated tests and participated in code review.
+
+EDUCATION
+B.S. in Computer Science

@@ -1,0 +1,25 @@
+Carla Tanaka
+DevOps Engineer | 2 years of experience
+
+SUMMARY
+DevOps Engineer with 2 years building cloud infrastructure. Proven track record delivering
+production systems and mentoring engineers.
+
+TECHNICAL SKILLS
+  - Terraform
+  - Docker
+  - Go
+  - Kubernetes
+
+EXPERIENCE
+Pied Piper — DevOps Engineer (1 years)
+  - Led development of cloud infrastructure using Terraform and Docker.
+  - Improved system reliability and reduced latency through profiling and refactoring.
+  - Collaborated cross-functionally with product and design.
+
+Northwind — Software Engineer (1 years)
+  - Built and maintained features across the stack using Go.
+  - Wrote automated tests and participated in code review.
+
+EDUCATION
+B.S. in Computer Science

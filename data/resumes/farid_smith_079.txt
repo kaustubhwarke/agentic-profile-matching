@@ -1,0 +1,28 @@
+Farid Smith
+Backend Engineer | 4 years of experience
+
+SUMMARY
+Backend Engineer with 4 years building high-throughput payment systems. Proven track record delivering
+production systems and mentoring engineers.
+
+TECHNICAL SKILLS
+  - PostgreSQL
+  - Docker
+  - REST APIs
+  - Django
+  - Python
+  - Celery
+  - Redis
+
+EXPERIENCE
+Globex — Backend Engineer (2 years)
+  - Led development of high-throughput payment systems using PostgreSQL and Docker.
+  - Improved system reliability and reduced latency through profiling and refactoring.
+  - Collaborated cross-functionally with product and design.
+
+Northwind — Software Engineer (2 years)
+  - Built and maintained features across the stack using REST APIs.
+  - Wrote automated tests and participated in code review.
+
+EDUCATION
+B.S. in Computer Science

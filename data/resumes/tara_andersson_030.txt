@@ -1,0 +1,25 @@
+Tara Andersson
+Senior Frontend Engineer | 3 years of experience
+
+SUMMARY
+Senior Frontend Engineer with 3 years building consumer web applications. Proven track record delivering
+production systems and mentoring engineers.
+
+TECHNICAL SKILLS
+  - React
+  - CSS
+  - Jest
+  - TypeScript
+
+EXPERIENCE
+Acme Corp — Senior Frontend Engineer (1 years)
+  - Led development of consumer web applications using React and CSS.
+  - Improved system reliability and reduced latency through profiling and refactoring.
+  - Collaborated cross-functionally with product and design.
+
+Globex — Software Engineer (2 years)
+  - Built and maintained features across the stack using Jest.
+  - Wrote automated tests and participated in code review.
+
+EDUCATION
+B.S. in Computer Science

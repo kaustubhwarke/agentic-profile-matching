@@ -1,0 +1,17 @@
+Senior Frontend Engineer
+
+We are hiring a Senior Frontend Engineer to build our customer-facing web app.
+
+Must have:
+- 3+ years of professional experience with React and TypeScript
+- Strong understanding of state management (Redux or similar)
+- Experience consuming REST or GraphQL APIs
+- Solid testing discipline (Jest, React Testing Library)
+
+Nice to have:
+- Experience with performance optimization and Webpack
+- Familiarity with CI/CD pipelines
+- Design-system / accessibility experience
+
+You will own features end to end, mentor junior engineers, and partner closely
+with design and product.

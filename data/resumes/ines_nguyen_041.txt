@@ -1,0 +1,28 @@
+Ines Nguyen
+DevOps Engineer | 3 years of experience
+
+SUMMARY
+DevOps Engineer with 3 years building cloud infrastructure. Proven track record delivering
+production systems and mentoring engineers.
+
+TECHNICAL SKILLS
+  - Docker
+  - Kubernetes
+  - Prometheus
+  - Terraform
+  - CI/CD
+  - AWS
+  - Go
+
+EXPERIENCE
+Umbrella — DevOps Engineer (1 years)
+  - Led development of cloud infrastructure using Docker and Kubernetes.
+  - Improved system reliability and reduced latency through profiling and refactoring.
+  - Collaborated cross-functionally with product and design.
+
+Acme Corp — Software Engineer (2 years)
+  - Built and maintained features across the stack using Prometheus.
+  - Wrote automated tests and participated in code review.
+
+EDUCATION
+B.S. in Computer Science

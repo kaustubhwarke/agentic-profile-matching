@@ -1,0 +1,27 @@
+Maya Khan
+Backend Engineer | 8 years of experience
+
+SUMMARY
+Backend Engineer with 8 years building high-throughput payment systems. Proven track record delivering
+production systems and mentoring engineers.
+
+TECHNICAL SKILLS
+  - Celery
+  - REST APIs
+  - PostgreSQL
+  - Python
+  - Django
+  - Redis
+
+EXPERIENCE
+Initech — Backend Engineer (4 years)
+  - Led development of high-throughput payment systems using Celery and REST APIs.
+  - Improved system reliability and reduced latency through profiling and refactoring.
+  - Collaborated cross-functionally with product and design.
+
+Initech — Software Engineer (4 years)
+  - Built and maintained features across the stack using PostgreSQL.
+  - Wrote automated tests and participated in code review.
+
+EDUCATION
+B.S. in Computer Science

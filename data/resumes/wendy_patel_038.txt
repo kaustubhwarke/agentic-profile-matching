@@ -1,0 +1,26 @@
+Wendy Patel
+Full-Stack Engineer | 8 years of experience
+
+SUMMARY
+Full-Stack Engineer with 8 years building SaaS platforms. Proven track record delivering
+production systems and mentoring engineers.
+
+TECHNICAL SKILLS
+  - AWS
+  - React
+  - MongoDB
+  - Node.js
+  - GraphQL
+
+EXPERIENCE
+Globex — Full-Stack Engineer (4 years)
+  - Led development of SaaS platforms using AWS and React.
+  - Improved system reliability and reduced latency through profiling and refactoring.
+  - Collaborated cross-functionally with product and design.
+
+Pied Piper — Software Engineer (4 years)
+  - Built and maintained features across the stack using MongoDB.
+  - Wrote automated tests and participated in code review.
+
+EDUCATION
+B.S. in Computer Science

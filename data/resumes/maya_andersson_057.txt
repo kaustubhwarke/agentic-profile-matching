@@ -1,0 +1,26 @@
+Maya Andersson
+Data Engineer | 11 years of experience
+
+SUMMARY
+Data Engineer with 11 years building analytics pipelines. Proven track record delivering
+production systems and mentoring engineers.
+
+TECHNICAL SKILLS
+  - Snowflake
+  - Kafka
+  - Airflow
+  - dbt
+  - SQL
+
+EXPERIENCE
+Northwind — Data Engineer (5 years)
+  - Led development of analytics pipelines using Snowflake and Kafka.
+  - Improved system reliability and reduced latency through profiling and refactoring.
+  - Collaborated cross-functionally with product and design.
+
+Globex — Software Engineer (6 years)
+  - Built and maintained features across the stack using Airflow.
+  - Wrote automated tests and participated in code review.
+
+EDUCATION
+B.S. in Computer Science

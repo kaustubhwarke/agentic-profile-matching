@@ -1,0 +1,25 @@
+Viktor Smith
+Machine Learning Engineer | 10 years of experience
+
+SUMMARY
+Machine Learning Engineer with 10 years building recommendation systems. Proven track record delivering
+production systems and mentoring engineers.
+
+TECHNICAL SKILLS
+  - MLflow
+  - Kubernetes
+  - Python
+  - PyTorch
+
+EXPERIENCE
+Pied Piper — Machine Learning Engineer (5 years)
+  - Led development of recommendation systems using MLflow and Kubernetes.
+  - Improved system reliability and reduced latency through profiling and refactoring.
+  - Collaborated cross-functionally with product and design.
+
+Pied Piper — Software Engineer (5 years)
+  - Built and maintained features across the stack using Python.
+  - Wrote automated tests and participated in code review.
+
+EDUCATION
+B.S. in Computer Science

@@ -1,0 +1,25 @@
+Grace Rossi
+Machine Learning Engineer | 9 years of experience
+
+SUMMARY
+Machine Learning Engineer with 9 years building recommendation systems. Proven track record delivering
+production systems and mentoring engineers.
+
+TECHNICAL SKILLS
+  - NLP
+  - Python
+  - MLflow
+  - Kubernetes
+
+EXPERIENCE
+Pied Piper — Machine Learning Engineer (4 years)
+  - Led development of recommendation systems using NLP and Python.
+  - Improved system reliability and reduced latency through profiling and refactoring.
+  - Collaborated cross-functionally with product and design.
+
+Northwind — Software Engineer (5 years)
+  - Built and maintained features across the stack using MLflow.
+  - Wrote automated tests and participated in code review.
+
+EDUCATION
+B.S. in Computer Science

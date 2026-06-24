@@ -1,0 +1,26 @@
+Omar Silva
+DevOps Engineer | 10 years of experience
+
+SUMMARY
+DevOps Engineer with 10 years building cloud infrastructure. Proven track record delivering
+production systems and mentoring engineers.
+
+TECHNICAL SKILLS
+  - Terraform
+  - CI/CD
+  - AWS
+  - Docker
+  - Kubernetes
+
+EXPERIENCE
+Initech — DevOps Engineer (5 years)
+  - Led development of cloud infrastructure using Terraform and CI/CD.
+  - Improved system reliability and reduced latency through profiling and refactoring.
+  - Collaborated cross-functionally with product and design.
+
+Initech — Software Engineer (5 years)
+  - Built and maintained features across the stack using AWS.
+  - Wrote automated tests and participated in code review.
+
+EDUCATION
+B.S. in Computer Science

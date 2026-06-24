@@ -1,0 +1,26 @@
+Jamal Haddad
+Senior Frontend Engineer | 2 years of experience
+
+SUMMARY
+Senior Frontend Engineer with 2 years building consumer web applications. Proven track record delivering
+production systems and mentoring engineers.
+
+TECHNICAL SKILLS
+  - TypeScript
+  - GraphQL
+  - Redux
+  - React
+  - Webpack
+
+EXPERIENCE
+Acme Corp — Senior Frontend Engineer (1 years)
+  - Led development of consumer web applications using TypeScript and GraphQL.
+  - Improved system reliability and reduced latency through profiling and refactoring.
+  - Collaborated cross-functionally with product and design.
+
+Pied Piper — Software Engineer (1 years)
+  - Built and maintained features across the stack using Redux.
+  - Wrote automated tests and participated in code review.
+
+EDUCATION
+B.S. in Computer Science

@@ -1,0 +1,28 @@
+Hiro Mehta
+DevOps Engineer | 6 years of experience
+
+SUMMARY
+DevOps Engineer with 6 years building cloud infrastructure. Proven track record delivering
+production systems and mentoring engineers.
+
+TECHNICAL SKILLS
+  - CI/CD
+  - Prometheus
+  - Terraform
+  - Docker
+  - AWS
+  - Go
+  - Kubernetes
+
+EXPERIENCE
+Umbrella — DevOps Engineer (3 years)
+  - Led development of cloud infrastructure using CI/CD and Prometheus.
+  - Improved system reliability and reduced latency through profiling and refactoring.
+  - Collaborated cross-functionally with product and design.
+
+Pied Piper — Software Engineer (3 years)
+  - Built and maintained features across the stack using Terraform.
+  - Wrote automated tests and participated in code review.
+
+EDUCATION
+B.S. in Computer Science

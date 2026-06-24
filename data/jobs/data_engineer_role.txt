@@ -1,0 +1,14 @@
+Data Engineer
+
+We're looking for a Data Engineer to build and own our analytics pipelines.
+
+Must have:
+- 4+ years building data pipelines in Python
+- Strong SQL and data modelling skills
+- Experience with a workflow orchestrator (Airflow or similar)
+- Experience with a distributed processing framework (Spark)
+
+Nice to have:
+- Kafka / streaming experience
+- Snowflake and dbt
+- Infrastructure-as-code exposure

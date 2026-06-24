@@ -1,0 +1,83 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "agentic-profile-matching"
+version = "1.0.0"
+description = "Enterprise-grade agentic candidate/profile matching system built on LangGraph and Claude."
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "Proprietary" }
+authors = [{ name = "Kaustubh Warke", email = "kaustubh.warke@nice.com" }]
+keywords = ["langgraph", "agent", "rag", "recruiting", "claude", "anthropic"]
+
+dependencies = [
+    # --- Agent orchestration -------------------------------------------------
+    "langgraph>=0.2.60,<0.3",
+    "langchain-core>=0.3.30,<0.4",
+    "langchain>=0.3.13,<0.4",
+    "langchain-anthropic>=0.3.0,<0.4",
+    "langchain-community>=0.3.13,<0.4",
+
+    # --- Retrieval-Augmented Generation (RAG) --------------------------------
+    "langchain-chroma>=0.1.4,<0.3",
+    "chromadb>=0.5.20,<0.7",
+    "langchain-huggingface>=0.1.2,<0.3",
+    "sentence-transformers>=3.3.0",
+
+    # --- Document parsing ----------------------------------------------------
+    "pypdf>=5.1.0",
+    "python-docx>=1.1.2",
+
+    # --- Configuration & validation -----------------------------------------
+    "pydantic>=2.9.0,<3",
+    "pydantic-settings>=2.6.0,<3",
+    "python-dotenv>=1.0.1",
+
+    # --- Interfaces ----------------------------------------------------------
+    "rich>=13.9.0",
+    "streamlit>=1.40.0",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=8.3.0",
+    "pytest-asyncio>=0.24.0",
+    "pytest-cov>=6.0.0",
+    "ruff>=0.8.0",
+    "mypy>=1.13.0",
+]
+
+[project.scripts]
+profile-matching = "profile_matching.cli.chat:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.setuptools.package-data]
+"profile_matching" = ["py.typed"]
+
+# ---------------------------------------------------------------------------
+# Tooling configuration
+# ---------------------------------------------------------------------------
+[tool.ruff]
+line-length = 100
+target-version = "py310"
+src = ["src", "tests"]
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "N", "UP", "B", "C4", "SIM"]
+ignore = ["E501"]
+
+[tool.mypy]
+python_version = "3.10"
+plugins = ["pydantic.mypy"]
+warn_unused_configs = true
+disallow_untyped_defs = false
+ignore_missing_imports = true
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-ra -q"
+asyncio_mode = "auto"

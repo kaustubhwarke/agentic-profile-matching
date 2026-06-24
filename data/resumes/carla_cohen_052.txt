@@ -1,0 +1,25 @@
+Carla Cohen
+Machine Learning Engineer | 6 years of experience
+
+SUMMARY
+Machine Learning Engineer with 6 years building recommendation systems. Proven track record delivering
+production systems and mentoring engineers.
+
+TECHNICAL SKILLS
+  - PyTorch
+  - MLflow
+  - TensorFlow
+  - NLP
+
+EXPERIENCE
+Acme Corp — Machine Learning Engineer (3 years)
+  - Led development of recommendation systems using PyTorch and MLflow.
+  - Improved system reliability and reduced latency through profiling and refactoring.
+  - Collaborated cross-functionally with product and design.
+
+Acme Corp — Software Engineer (3 years)
+  - Built and maintained features across the stack using TensorFlow.
+  - Wrote automated tests and participated in code review.
+
+EDUCATION
+B.S. in Computer Science

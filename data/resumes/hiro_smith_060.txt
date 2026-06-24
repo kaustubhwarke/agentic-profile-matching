@@ -1,0 +1,26 @@
+Hiro Smith
+Senior Frontend Engineer | 2 years of experience
+
+SUMMARY
+Senior Frontend Engineer with 2 years building consumer web applications. Proven track record delivering
+production systems and mentoring engineers.
+
+TECHNICAL SKILLS
+  - TypeScript
+  - React
+  - GraphQL
+  - Redux
+  - CSS
+
+EXPERIENCE
+Initech — Senior Frontend Engineer (1 years)
+  - Led development of consumer web applications using TypeScript and React.
+  - Improved system reliability and reduced latency through profiling and refactoring.
+  - Collaborated cross-functionally with product and design.
+
+Hooli — Software Engineer (1 years)
+  - Built and maintained features across the stack using GraphQL.
+  - Wrote automated tests and participated in code review.
+
+EDUCATION
+B.S. in Computer Science

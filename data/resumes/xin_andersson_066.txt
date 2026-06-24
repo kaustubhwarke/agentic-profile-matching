@@ -1,0 +1,28 @@
+Xin Andersson
+Senior Frontend Engineer | 6 years of experience
+
+SUMMARY
+Senior Frontend Engineer with 6 years building consumer web applications. Proven track record delivering
+production systems and mentoring engineers.
+
+TECHNICAL SKILLS
+  - Redux
+  - CSS
+  - Webpack
+  - Jest
+  - TypeScript
+  - React
+  - GraphQL
+
+EXPERIENCE
+Umbrella — Senior Frontend Engineer (3 years)
+  - Led development of consumer web applications using Redux and CSS.
+  - Improved system reliability and reduced latency through profiling and refactoring.
+  - Collaborated cross-functionally with product and design.
+
+Umbrella — Software Engineer (3 years)
+  - Built and maintained features across the stack using Webpack.
+  - Wrote automated tests and participated in code review.
+
+EDUCATION
+B.S. in Computer Science

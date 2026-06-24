@@ -1,0 +1,25 @@
+Omar Khan
+Data Engineer | 2 years of experience
+
+SUMMARY
+Data Engineer with 2 years building analytics pipelines. Proven track record delivering
+production systems and mentoring engineers.
+
+TECHNICAL SKILLS
+  - Spark
+  - Kafka
+  - Snowflake
+  - dbt
+
+EXPERIENCE
+Acme Corp — Data Engineer (1 years)
+  - Led development of analytics pipelines using Spark and Kafka.
+  - Improved system reliability and reduced latency through profiling and refactoring.
+  - Collaborated cross-functionally with product and design.
+
+Acme Corp — Software Engineer (1 years)
+  - Built and maintained features across the stack using Snowflake.
+  - Wrote automated tests and participated in code review.
+
+EDUCATION
+B.S. in Computer Science

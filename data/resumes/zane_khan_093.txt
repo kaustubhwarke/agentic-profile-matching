@@ -1,0 +1,28 @@
+Zane Khan
+Data Engineer | 8 years of experience
+
+SUMMARY
+Data Engineer with 8 years building analytics pipelines. Proven track record delivering
+production systems and mentoring engineers.
+
+TECHNICAL SKILLS
+  - dbt
+  - Airflow
+  - SQL
+  - Python
+  - Spark
+  - Snowflake
+  - Kafka
+
+EXPERIENCE
+Pied Piper — Data Engineer (4 years)
+  - Led development of analytics pipelines using dbt and Airflow.
+  - Improved system reliability and reduced latency through profiling and refactoring.
+  - Collaborated cross-functionally with product and design.
+
+Acme Corp — Software Engineer (4 years)
+  - Built and maintained features across the stack using SQL.
+  - Wrote automated tests and participated in code review.
+
+EDUCATION
+B.S. in Computer Science

@@ -1,0 +1,25 @@
+Jamal Garcia
+Backend Engineer | 9 years of experience
+
+SUMMARY
+Backend Engineer with 9 years building high-throughput payment systems. Proven track record delivering
+production systems and mentoring engineers.
+
+TECHNICAL SKILLS
+  - Redis
+  - Docker
+  - REST APIs
+  - Django
+
+EXPERIENCE
+Acme Corp — Backend Engineer (4 years)
+  - Led development of high-throughput payment systems using Redis and Docker.
+  - Improved system reliability and reduced latency through profiling and refactoring.
+  - Collaborated cross-functionally with product and design.
+
+Globex — Software Engineer (5 years)
+  - Built and maintained features across the stack using REST APIs.
+  - Wrote automated tests and participated in code review.
+
+EDUCATION
+B.S. in Computer Science

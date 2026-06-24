@@ -1,0 +1,27 @@
+Farid Silva
+Backend Engineer | 4 years of experience
+
+SUMMARY
+Backend Engineer with 4 years building high-throughput payment systems. Proven track record delivering
+production systems and mentoring engineers.
+
+TECHNICAL SKILLS
+  - Celery
+  - PostgreSQL
+  - Python
+  - REST APIs
+  - Docker
+  - Redis
+
+EXPERIENCE
+Acme Corp — Backend Engineer (2 years)
+  - Led development of high-throughput payment systems using Celery and PostgreSQL.
+  - Improved system reliability and reduced latency through profiling and refactoring.
+  - Collaborated cross-functionally with product and design.
+
+Pied Piper — Software Engineer (2 years)
+  - Built and maintained features across the stack using Python.
+  - Wrote automated tests and participated in code review.
+
+EDUCATION
+B.S. in Computer Science

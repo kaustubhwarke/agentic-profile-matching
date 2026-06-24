@@ -1,0 +1,27 @@
+Noah Andersson
+DevOps Engineer | 11 years of experience
+
+SUMMARY
+DevOps Engineer with 11 years building cloud infrastructure. Proven track record delivering
+production systems and mentoring engineers.
+
+TECHNICAL SKILLS
+  - Go
+  - Terraform
+  - Docker
+  - Prometheus
+  - AWS
+  - CI/CD
+
+EXPERIENCE
+Pied Piper — DevOps Engineer (5 years)
+  - Led development of cloud infrastructure using Go and Terraform.
+  - Improved system reliability and reduced latency through profiling and refactoring.
+  - Collaborated cross-functionally with product and design.
+
+Umbrella — Software Engineer (6 years)
+  - Built and maintained features across the stack using Docker.
+  - Wrote automated tests and participated in code review.
+
+EDUCATION
+B.S. in Computer Science

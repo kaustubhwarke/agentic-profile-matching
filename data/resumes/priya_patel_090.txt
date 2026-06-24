@@ -1,0 +1,28 @@
+Priya Patel
+Senior Frontend Engineer | 2 years of experience
+
+SUMMARY
+Senior Frontend Engineer with 2 years building consumer web applications. Proven track record delivering
+production systems and mentoring engineers.
+
+TECHNICAL SKILLS
+  - Webpack
+  - GraphQL
+  - Jest
+  - React
+  - Redux
+  - CSS
+  - TypeScript
+
+EXPERIENCE
+Northwind — Senior Frontend Engineer (1 years)
+  - Led development of consumer web applications using Webpack and GraphQL.
+  - Improved system reliability and reduced latency through profiling and refactoring.
+  - Collaborated cross-functionally with product and design.
+
+Acme Corp — Software Engineer (1 years)
+  - Built and maintained features across the stack using Jest.
+  - Wrote automated tests and participated in code review.
+
+EDUCATION
+B.S. in Computer Science

@@ -1,0 +1,26 @@
+Quinn Nguyen
+Full-Stack Engineer | 11 years of experience
+
+SUMMARY
+Full-Stack Engineer with 11 years building SaaS platforms. Proven track record delivering
+production systems and mentoring engineers.
+
+TECHNICAL SKILLS
+  - Node.js
+  - TypeScript
+  - GraphQL
+  - AWS
+  - React
+
+EXPERIENCE
+Acme Corp — Full-Stack Engineer (5 years)
+  - Led development of SaaS platforms using Node.js and TypeScript.
+  - Improved system reliability and reduced latency through profiling and refactoring.
+  - Collaborated cross-functionally with product and design.
+
+Northwind — Software Engineer (6 years)
+  - Built and maintained features across the stack using GraphQL.
+  - Wrote automated tests and participated in code review.
+
+EDUCATION
+B.S. in Computer Science

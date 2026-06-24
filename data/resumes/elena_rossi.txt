@@ -1,0 +1,26 @@
+Elena Rossi
+Data Engineer | 7 years of experience
+
+SUMMARY
+Data Engineer with 7 years building analytics pipelines at scale.
+
+TECHNICAL SKILLS
+  - Python
+  - Apache Spark
+  - Airflow
+  - SQL
+  - Kafka
+  - Snowflake
+  - dbt
+
+EXPERIENCE
+Initech — Senior Data Engineer (4 years)
+  - Built and owned batch and streaming pipelines with Spark, Airflow and Kafka.
+  - Modeled the analytics warehouse in Snowflake using dbt.
+  - Reduced pipeline runtime 3x through partitioning and tuning.
+
+Acme Corp — Data Engineer (3 years)
+  - Authored SQL transformations and orchestrated jobs in Airflow.
+
+EDUCATION
+M.S. in Data Science

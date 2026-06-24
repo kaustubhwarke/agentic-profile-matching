@@ -1,0 +1,25 @@
+Rosa Kowalski
+Machine Learning Engineer | 12 years of experience
+
+SUMMARY
+Machine Learning Engineer with 12 years building recommendation systems. Proven track record delivering
+production systems and mentoring engineers.
+
+TECHNICAL SKILLS
+  - MLflow
+  - Python
+  - NLP
+  - PyTorch
+
+EXPERIENCE
+Hooli — Machine Learning Engineer (6 years)
+  - Led development of recommendation systems using MLflow and Python.
+  - Improved system reliability and reduced latency through profiling and refactoring.
+  - Collaborated cross-functionally with product and design.
+
+Acme Corp — Software Engineer (6 years)
+  - Built and maintained features across the stack using NLP.
+  - Wrote automated tests and participated in code review.
+
+EDUCATION
+B.S. in Computer Science

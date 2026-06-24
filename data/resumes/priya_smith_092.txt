@@ -1,0 +1,25 @@
+Priya Smith
+Full-Stack Engineer | 9 years of experience
+
+SUMMARY
+Full-Stack Engineer with 9 years building SaaS platforms. Proven track record delivering
+production systems and mentoring engineers.
+
+TECHNICAL SKILLS
+  - GraphQL
+  - React
+  - AWS
+  - Node.js
+
+EXPERIENCE
+Globex — Full-Stack Engineer (4 years)
+  - Led development of SaaS platforms using GraphQL and React.
+  - Improved system reliability and reduced latency through profiling and refactoring.
+  - Collaborated cross-functionally with product and design.
+
+Pied Piper — Software Engineer (5 years)
+  - Built and maintained features across the stack using AWS.
+  - Wrote automated tests and participated in code review.
+
+EDUCATION
+B.S. in Computer Science

@@ -1,0 +1,26 @@
+Yara Tanaka
+Data Engineer | 10 years of experience
+
+SUMMARY
+Data Engineer with 10 years building analytics pipelines. Proven track record delivering
+production systems and mentoring engineers.
+
+TECHNICAL SKILLS
+  - Snowflake
+  - Python
+  - SQL
+  - Airflow
+  - Kafka
+
+EXPERIENCE
+Hooli — Data Engineer (5 years)
+  - Led development of analytics pipelines using Snowflake and Python.
+  - Improved system reliability and reduced latency through profiling and refactoring.
+  - Collaborated cross-functionally with product and design.
+
+Northwind — Software Engineer (5 years)
+  - Built and maintained features across the stack using SQL.
+  - Wrote automated tests and participated in code review.
+
+EDUCATION
+B.S. in Computer Science

@@ -1,0 +1,25 @@
+Kira Garcia
+Data Engineer | 2 years of experience
+
+SUMMARY
+Data Engineer with 2 years building analytics pipelines. Proven track record delivering
+production systems and mentoring engineers.
+
+TECHNICAL SKILLS
+  - Airflow
+  - SQL
+  - dbt
+  - Python
+
+EXPERIENCE
+Umbrella — Data Engineer (1 years)
+  - Led development of analytics pipelines using Airflow and SQL.
+  - Improved system reliability and reduced latency through profiling and refactoring.
+  - Collaborated cross-functionally with product and design.
+
+Hooli — Software Engineer (1 years)
+  - Built and maintained features across the stack using dbt.
+  - Wrote automated tests and participated in code review.
+
+EDUCATION
+B.S. in Computer Science

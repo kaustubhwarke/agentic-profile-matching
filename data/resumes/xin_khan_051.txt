@@ -1,0 +1,26 @@
+Xin Khan
+Data Engineer | 9 years of experience
+
+SUMMARY
+Data Engineer with 9 years building analytics pipelines. Proven track record delivering
+production systems and mentoring engineers.
+
+TECHNICAL SKILLS
+  - Python
+  - Kafka
+  - Snowflake
+  - dbt
+  - Airflow
+
+EXPERIENCE
+Globex — Data Engineer (4 years)
+  - Led development of analytics pipelines using Python and Kafka.
+  - Improved system reliability and reduced latency through profiling and refactoring.
+  - Collaborated cross-functionally with product and design.
+
+Initech — Software Engineer (5 years)
+  - Built and maintained features across the stack using Snowflake.
+  - Wrote automated tests and participated in code review.
+
+EDUCATION
+B.S. in Computer Science

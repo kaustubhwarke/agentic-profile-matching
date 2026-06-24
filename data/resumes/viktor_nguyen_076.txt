@@ -1,0 +1,25 @@
+Viktor Nguyen
+Machine Learning Engineer | 4 years of experience
+
+SUMMARY
+Machine Learning Engineer with 4 years building recommendation systems. Proven track record delivering
+production systems and mentoring engineers.
+
+TECHNICAL SKILLS
+  - Kubernetes
+  - Python
+  - TensorFlow
+  - MLflow
+
+EXPERIENCE
+Umbrella — Machine Learning Engineer (2 years)
+  - Led development of recommendation systems using Kubernetes and Python.
+  - Improved system reliability and reduced latency through profiling and refactoring.
+  - Collaborated cross-functionally with product and design.
+
+Pied Piper — Software Engineer (2 years)
+  - Built and maintained features across the stack using TensorFlow.
+  - Wrote automated tests and participated in code review.
+
+EDUCATION
+B.S. in Computer Science

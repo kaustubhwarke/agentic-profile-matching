@@ -1,0 +1,27 @@
+Elena Rossi
+Machine Learning Engineer | 9 years of experience
+
+SUMMARY
+Machine Learning Engineer with 9 years building recommendation systems. Proven track record delivering
+production systems and mentoring engineers.
+
+TECHNICAL SKILLS
+  - Python
+  - NLP
+  - PyTorch
+  - TensorFlow
+  - Kubernetes
+  - MLflow
+
+EXPERIENCE
+Initech — Machine Learning Engineer (4 years)
+  - Led development of recommendation systems using Python and NLP.
+  - Improved system reliability and reduced latency through profiling and refactoring.
+  - Collaborated cross-functionally with product and design.
+
+Umbrella — Software Engineer (5 years)
+  - Built and maintained features across the stack using PyTorch.
+  - Wrote automated tests and participated in code review.
+
+EDUCATION
+B.S. in Computer Science

@@ -1,0 +1,28 @@
+Sven Okafor
+DevOps Engineer | 5 years of experience
+
+SUMMARY
+DevOps Engineer with 5 years building cloud infrastructure. Proven track record delivering
+production systems and mentoring engineers.
+
+TECHNICAL SKILLS
+  - Terraform
+  - Prometheus
+  - CI/CD
+  - AWS
+  - Go
+  - Docker
+  - Kubernetes
+
+EXPERIENCE
+Initech — DevOps Engineer (2 years)
+  - Led development of cloud infrastructure using Terraform and Prometheus.
+  - Improved system reliability and reduced latency through profiling and refactoring.
+  - Collaborated cross-functionally with product and design.
+
+Hooli — Software Engineer (3 years)
+  - Built and maintained features across the stack using CI/CD.
+  - Wrote automated tests and participated in code review.
+
+EDUCATION
+B.S. in Computer Science

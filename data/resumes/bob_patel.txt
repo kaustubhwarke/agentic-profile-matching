@@ -1,0 +1,22 @@
+Bob Patel
+Frontend Engineer | 2 years of experience
+
+SUMMARY
+Frontend Engineer with 2 years of experience building SaaS dashboards.
+Comfortable with React and growing into TypeScript.
+
+TECHNICAL SKILLS
+  - React
+  - JavaScript
+  - CSS
+  - REST APIs
+  - Some TypeScript
+
+EXPERIENCE
+Hooli — Frontend Engineer (2 years)
+  - Implemented dashboard widgets in React consuming REST APIs.
+  - Wrote unit tests and collaborated on UI polish with designers.
+  - Began adopting TypeScript on new modules.
+
+EDUCATION
+B.S. in Information Systems
